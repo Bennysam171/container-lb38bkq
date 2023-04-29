@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Bennysam171",
+  "repo": "container-lb38bkq",
+  "name": "Bennysam171",
+  "email": "Bennysam171@gmail.com",
+}
